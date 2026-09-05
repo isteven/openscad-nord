@@ -1,10 +1,10 @@
 {
-    "name" : "Nord",
-    "index" : 2000,
+    "name" : "Nord Light",
+    "index" : 2100,
     "show-in-gui" : true,
 
     "colors" : {
-        "background" :         "#2e3440",
+        "background" :         "#eceff4",
         "axes-color" :         "#4c566a",
         "opencsg-face-front" : "#88c0d0",
         "opencsg-face-back" :  "#5e81ac",

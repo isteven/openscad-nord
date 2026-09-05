@@ -20,7 +20,7 @@
         "number" : "#b48ead",
         "string" : "#a3be8c",
         "operator" : "#81a1c1",
-        "variables" : "Silver",
+        "variables" : "#d8dee9",
 
         "keywords" : "#81a1c1",
         "transformations" : "#8fbcbb",
@@ -33,14 +33,14 @@
         "selection-foreground" : "#81a1c1",
         "selection-background" : "#4c566a",
         "margin-background" : "#3b4252",
-        "margin-foreground" : "#4c566a",
+        "margin-foreground" : "#d8dee9",
         "matched-brace-background" : "#4c566a",
         "matched-brace-foreground" : "#88c0d0",
         "unmatched-brace-background" : "#bf616a",
         "unmatched-brace-foreground" : "#eceff4",
         "error-marker" : "#bf616a",
-        "error-indicator" : "#ebcb8be3",
-        "error-indicator-outline" : "#ff000000",
+        "error-indicator" : "#ebcb8b59",
+        "error-indicator-outline" : "#bf616a",
         "edge" : "#eceff4"
     }
 }
