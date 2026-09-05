@@ -7,13 +7,13 @@ Bringing the popular Nord color scheme to both OpenSCAD editor and renderer. Exa
 ## How To Install & Enable
 
 Editor:
-1. Download editor-nord.json
-2. Save or move it into OpenSCAD's color scheme editor folder. For example, in Windows it would be C:\Program Files\OpenSCAD (Nightly)\color-schemes\editor
+1. Go to /editor folder where you can find the dark & light themes.
+2. Download & save those files into OpenSCAD's color scheme editor folder. For example, in Windows it would be C:\Program Files\OpenSCAD (Nightly)\color-schemes\editor
 3. To enable it, go to OpenSCAD's Edit > Preferences > Editor. Find "Color syntax highlighting" dropdown, and choose "Nord".
 
 Renderer: 
-1. Download render-nord.json
-2. Save or move it into OpenSCAD's color scheme render folder. For example, in Windows it would be C:\Program Files\OpenSCAD (Nightly)\color-schemes\render 
+1. Go to /render folder where you can find the dark & light themes.
+2. Download & save those files into OpenSCAD's color scheme render folder. For example, in Windows it would be C:\Program Files\OpenSCAD (Nightly)\color-schemes\render 
 3. To enable it, go to OpenSCAD's Edit > Preferences > 3D View. Find "Color scheme" list, and choose "Nord".
   
 *Note: I use OpenSCAD Nightly build on Windows 11 operating system. Your OpenSCAD path might vary depending on the version and operating system used.*
@@ -23,6 +23,7 @@ Renderer:
 <img src="img1.png" width="600" height="auto"/>
 <img src="img2.png" width="600" height="auto"/>
 <img src="img3.png" width="600" height="auto"/>
+<img src="img5.png" width="600" height="auto"/>
 
 ## Attributions
 
@@ -35,6 +36,7 @@ Screenshots:
 - Gears: https://www.thingiverse.com/thing:1339
 - Turbojet engine: https://www.thingiverse.com/thing:3367095 
 - Twin-cylinder engine: https://www.thingiverse.com/thing:576482/files
+- Rugged box: https://www.thingiverse.com/thing:4768000/files
 
 ## License
 
