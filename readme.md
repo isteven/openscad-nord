@@ -1,6 +1,6 @@
 # OpenSCAD x Nord
 
-Bringing the popular Nord color scheme to both OpenSCAD editor and renderer. Example:
+Nord is an arctic, north-bluish color palette. It consists of sixteen, carefully selected, dimmed pastel colors for a eye-comfortable, but yet colorful ambiance. This port brings the popular Nord color scheme to both OpenSCAD editor and renderer. Example:
 
 <img src="img4.png" width="600" height="auto"/>
 
