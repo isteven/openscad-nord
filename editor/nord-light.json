@@ -39,8 +39,8 @@
         "unmatched-brace-background" : "#bf616a",
         "unmatched-brace-foreground" : "#eceff4",
         "error-marker" : "#bf616a",
-        "error-indicator" : "#ebcb8b4a",
-        "error-indicator-outline" : "#bf616a",
+        "error-indicator" : "#bf616a00",
+        "error-indicator-outline" : "#ff000000",
         "edge" : "#eceff4"
     }
 }
