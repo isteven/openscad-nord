@@ -2,10 +2,10 @@
 
 Nord is an arctic, north-bluish color palette. It consists of sixteen, carefully selected, dimmed pastel colors for a eye-comfortable, but yet colorful ambiance. This port brings the popular Nord color scheme to both OpenSCAD editor and renderer.
 
-Dark theme is more or less faithful to the Nord's color palette:<br />
+The dark palette is more or less faithful to the Nord's original color palette:<br />
 <img src="img1.png" width="600" height="auto"/>
 
-The light theme contains some adjustments to slightly improve contrast:<br />
+The light palette contains some adjustments to slightly improve contrast:<br />
 <img src="img2.png" width="600" height="auto"/>
 
 ## How To Install & Enable
@@ -34,11 +34,14 @@ Original author of Nord theme: https://github.com/svengreb
 
 Nord theme repository: https://github.com/nordtheme/nord
 
+OpenSCAD: https://github.com/openscad
+
 Screenshots:
 - Blades and rotors: https://www.printables.com/model/511607-openscad-generic-blades-and-rotors
 - Gears: https://www.thingiverse.com/thing:1339
 - Turbojet engine: https://www.thingiverse.com/thing:3367095 
 - Rugged box: https://www.thingiverse.com/thing:4768000/files
+
 
 ## License
 
